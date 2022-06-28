@@ -1,7 +1,3 @@
-<?php
-
-use Illuminate\Support\Facades\Route;
-
 // Parte de Roteamentos
 
 // Route::get('/user/{user}', function (\App\Models\User $user) {
