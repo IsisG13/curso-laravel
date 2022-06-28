@@ -2,13 +2,15 @@
 
 use Illuminate\Support\Facades\Route;
 
-Route::get('/user/{user}', function (\App\Models\User $user) {
-    dd($user);
+// Parte de Roteamentos
 
-    // return $request;
+// Route::get('/user/{user}', function (\App\Models\User $user) {
+//     dd($user);
 
-    // return view('welcome');
-});
+//     // return $request;
+
+//     // return view('welcome');
+// });
 
 // Route::domain('{user}.cursolaravel.test')->group(function() {
 //     Route::get('{id}', function ($user, $id) {
